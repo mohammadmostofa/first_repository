@@ -1,0 +1,33 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.blog-1{
+
+  margin: 20px 30px;
+  border: 1px solid rgba(253, 253, 253, 0.806);
+  padding: 20px;
+  border-radius: 10px;
+  background-color: #cacab4;
+  box-shadow: 10px 10px 5px  ;
+
+}
+
+h1,p{
+
+ padding: 20px 0px;
+
+}
+
+button{
+  padding: 10px 20px;
+  color: black;
+  font-size: 16px;
+  margin: 10x 10px;
+  background-color: rgb(135, 240, 135);
+  border: none;
+  border-radius: 5px;
+  
+}
